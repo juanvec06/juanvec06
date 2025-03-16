@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, i'm Vela 🌄
+
+📘 I'm currently studying systems engineering in University of Cauca<br/>
+🌱 I’m currently learning spring boot and some software architecture things<br/>
 
 <!--
 **juanvec06/juanvec06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
