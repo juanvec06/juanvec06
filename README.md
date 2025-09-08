@@ -1,8 +1,8 @@
 ## Hi, i'm Vela 🌄
 
-📘 I'm currently studying systems engineering in University of Cauca<br/>
-🌱 I’m currently learning spring boot and some software architecture things<br/>
-⚡ Fun fact: When i was a kid i took care an egg from my kitchen cause i thought it will born a chicken<br/>
+📘 I'm currently studying systems engineering at the University of Cauca<br/>
+🌱 I’m currently learning some frontend things like React or Bootstrap <br/>
+⚡ Fun fact: When I was a kid, I took care of an egg from my kitchen cause I thought it would hatch a chicken<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jh0ncrown/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-vela-coronado-a609b7266/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juanvela@unicauca.edu.co) 
