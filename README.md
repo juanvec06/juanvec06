@@ -17,8 +17,10 @@
   <img src="https://komarev.com/ghpvc/?username=juanvec06&style=flat-square&color=0A66C2" alt="Profile Views" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi,+i'm+Juan+Vela;I'm+a+Software+Developer;I'm+into+Systems+Engineering)](https://git.io/typing-svg) 
 
+<div align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi,+i'm+Juan+Vela;I'm+a+Software+Developer;I'm+into+Systems+Engineering"/>
+</div>
 
 
 # 💻 My Favorite Tools and Technologies
